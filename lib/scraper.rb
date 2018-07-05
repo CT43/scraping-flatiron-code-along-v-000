@@ -44,3 +44,5 @@ class Scraper
   end
 
 end
+
+lib/scraper.rb
